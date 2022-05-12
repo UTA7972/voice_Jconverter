@@ -9,7 +9,7 @@ voice converting for Japanese
 　textファイルに出力(ファイル名は"議事録年/月/日/時/分.txt")
 
 ルール
-　ファイル名はvoice_Jconverter.pyとし、すべてそこにまとめる。
+　ファイル名は.pyとし、すべてそこにまとめる。
 
 進捗
 
